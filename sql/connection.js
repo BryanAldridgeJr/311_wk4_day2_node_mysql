@@ -8,8 +8,8 @@ class Connection {
         connectionLimit: 100,
         host: 'localhost',
         user: 'root',
-        password: 'password',
-        database: 'admin'
+        password: 'Bub50527.',
+        database: 'hw1'
       })
 
       return this.pool
